@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PingpongApp</string>
+    <string name="score_team_tiger">0</string>
+    <string name="team_tiger">Team Tiger</string>
+    <string name="team_jaguar">Team Jaguar</string>
+    <string name="score_team_jaguar">0</string>
+    <string name="add_one_point">+1 point</string>
+    <string name="remove_one_point">-1 point</string>
+    <string name="reset_score">Reset</string>
+</resources>
